@@ -1,72 +1,68 @@
-# AILatest Imagine · 图片生成 🎨
+<a id="top"></a>
+<p align="right">
+  <b>English</b> | <a href="#chinese"><b>中文说明</b></a>
+</p>
+
+# AILatest Imagine · Aesthetic Prompt-to-Image Studio 🎨
 
 <p align="center">
-  <b>写提示词出图。精选江南水墨、复古 Risograph、彩色黏土、小红书治愈插画等 20+ 独特美学场景风格。</b><br>
-  登录即送免费作品生成额度，支持 2K 原生超清无水印下载与云端历史同步。
+  <b>Crafting distinctive, high-aesthetic AI illustrations, photography, and concept designs from natural language prompts.</b><br>
+  支持中英文自由提示词输入，精选 20+ 独家美学艺术预设，支持多参考图垫图与 2K 原生超清导出。
 </p>
 
 <p align="center">
-  <a href="https://image.ailatest.org/"><img src="https://img.shields.io/badge/立即体验-image.ailatest.org-c4532a?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://image.ailatest.org/gallery/"><img src="https://img.shields.io/badge/灵感画廊-精选风格预设-purple?style=for-the-badge" alt="Gallery"></a>
-  <a href="https://image.ailatest.org/en/"><img src="https://img.shields.io/badge/English_Version-Available-blue?style=for-the-badge" alt="English"></a>
+  <a href="https://image.ailatest.org/"><img src="https://img.shields.io/badge/Live_App-image.ailatest.org-8b5cf6?style=for-the-badge&logo=cloudflare" alt="Live App"></a>
+  <img src="https://img.shields.io/badge/Free_Credits-2_Images_on_Signup-success?style=for-the-badge" alt="Free Credits">
+  <img src="https://img.shields.io/badge/Resolution-2K_Native_HD-blue?style=for-the-badge" alt="2K Native">
+  <img src="https://img.shields.io/badge/Reference_Images-Up_to_5_Photos-orange?style=for-the-badge" alt="Reference Images">
 </p>
 
 ---
 
-## 🖼 视觉预览 · Visual Overview
+## 🖼 Visual Showcase
 
-### 1. 官方封面插画
+### 1. Official Cover Art
+<p align="center">
+  <img src="assets/covers/imagine.png" alt="AILatest Imagine Cover Art" width="860">
+</p>
+
+### 2. Live Application Interface
 <p align="center">
   <a href="https://image.ailatest.org/">
-    <img src="assets/covers/imagine.png" alt="Imagine 官方封面" width="920">
+    <img src="assets/screenshots/preview.png" alt="AILatest Imagine Live Interface" width="920">
   </a>
 </p>
+<p align="center"><em>Live screenshot captured from production: <a href="https://image.ailatest.org/">image.ailatest.org</a>.</em></p>
 
-### 2. 真实在线创作界面截图 (Live Application Interface)
-<p align="center">
-  <a href="https://image.ailatest.org/">
-    <img src="assets/screenshots/preview.png" alt="Imagine 真实在线创作界面" width="920">
-  </a>
+---
+
+## 🌟 Key Features
+
+1. **Natural Language Prompting**: Generate art seamlessly from descriptive English or Chinese prompts without needing complex negative syntax boilerplate.
+2. **Multi-Image Reference (Image Prompting)**: Upload up to 5 reference images (PNG, JPEG, WebP) to guide character consistency, color grading, or scene composition.
+3. **20+ Curated Aesthetic Styles**:
+   - **Illustration**: Sempé watercolor, Oil pastel, Edward Gorey gothic ink, Risograph retro print.
+   - **Fine Art & Photography**: Claude Monet impressionism, Cinematic 35mm film, Studio product minimalism.
+   - **Modern Digital**: 3D clay miniature, Cyberpunk neon, Anime 2D, Graphic editorial poster.
+4. **Flexible Aspect Ratios**: One-click switching between `1:1` (square avatar/post), `3:4` (social feed/mobile portrait), and `16:9` (desktop wallpaper/cinematic wide).
+5. **Resolution Tiers**: Standard 1K for rapid ideation and Native 2K Ultra-HD for print and production.
+6. **Unified AILatest Account**: Shared single sign-on with Journal, RefCheck, and Grant. 2 free image generation credits upon account creation. Automatic quota refunds on failed generations.
+
+---
+
+<a id="chinese"></a>
+<p align="right">
+  <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
 </p>
-<p align="center"><em>界面截图截取自线上站点 <a href="https://image.ailatest.org/">image.ailatest.org</a>。</em></p>
 
----
+## 🇨🇳 中文介绍 · AILatest Imagine
 
-## 🌟 核心特色与美学场景
+### 为什么需要 Imagine？
+通用生图工具往往存在提示词门槛高、画面塑料感重、风格千篇一律等问题。Imagine 专注于**艺术质感与实用场景设计**：
+- **免复杂垫词**：直接输入自然语言（例如“无缝浅灰背景上的一只磨砂白瓶，居中，柔和棚灯”），即可精准成图。
+- **20+ 独家美学预设**：涵盖让-雅克·桑贝（Sempé）水彩插画、复古孔版印刷（Risograph）、爱德华·戈里暗黑钢笔、油画棒质感、杜邦纸黏土、胶片摄影等独特美学风格。
+- **支持多图垫图**：最多可上传 5 张参考图片，精确控制画面人物姿态、色调与结构布局。
+- **多端与多比例支持**：支持 1:1、3:4（适合小红书/公众号配图）、16:9 比例，支持原生 2K 无水印高分辨率导出。
+- **免多余注册**：使用统一 AILatest 账号（与知刊、文献侦探相同），新用户立享 2 张免费体验额度，生成失败自动回退额度。
 
-### 1. 精选 20+ 高级美学预设风格
-拒绝千篇一律的塑料质感 AI 图，Imagine 深度调优了二十余种极具艺术格调的小众风格：
-- 🖌 **江南水墨烟雨 (Jiangnan Ink Wash)**：淡雅水汽氤氲、水乡白墙黛瓦、清雅写意留白；
-- 🎨 **Risograph 叠色孔版印刷**：荧光红蓝双色重叠错版、质感颗粒感纸张肌理；
-- 🪐 **杜邦纸黏土偶定格动画 (Claymation)**：纯手工捏制微缩场景、指纹触感立体微阴影；
-- 🏮 **小红书爆款暖愈生活插画**：柔和色调、温馨松弛感生活静物与猫咪萌物；
-- 🌿 **复古植物木刻版画 (Woodcut Botanical)**：细腻雕刻线条、古典图谱典雅质感；
-- 🌃 **赛博朋克夜雨街景 (Cyberpunk Neon)**：霓虹灯倒影、沥青路面潮湿反光；
-- 🥐 **法式咖啡馆速写 (French Cafe Sketch)**：灵动钢笔淡彩、慵懒午后街头。
-
-### 2. 灵感画廊一键带入创作
-遇到喜欢的作品，无需费心反复构思。点击画廊中的任意范例：
-- 自动带入原图的**核心提示词**；
-- 自动锁定相配的**艺术风格滤镜**；
-- 自动推荐最佳的长宽比例（1:1 方图、3:4 小红书竖图、16:9 横屏海报）。
-
-### 3. 云端历史与全屏高清预览
-- 登录后每次生成的作品均永久备份于您的云端个人历史库；
-- 点击任意缩略图即可进入 2K 全屏高保真灯箱预览；
-- 支持随时点击「基于此图修改」，在原有提示词基础上微调迭代。
-
----
-
-## 💰 额度与价格体系
-
-- **新用户注册福利**：登录 AILatest 账号即免费赠送 2 张作品生成额度。
-- **高性价比灵活充值**：
-  - 入门包（$1.99 / 60 张，折合单张约 $0.033，比官方直省 20%）；
-  - 爆款包（$4.99 / 200 张，折合单张约 $0.025，立省 40%）；
-- **失败自动退额保障**：若因不可抗力生成中断，系统将在秒级内自动返还额度，保障每一分投入。
-
----
-
-## 🌐 立即体验创作
-
-欢迎打开网站体验：[**https://image.ailatest.org/**](https://image.ailatest.org/)\n
+🌐 **立即在线体验**：[**https://image.ailatest.org/**](https://image.ailatest.org/)
