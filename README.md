@@ -1,13 +1,13 @@
 # AILatest Imagine · 图片生成 🎨
 
 <p align="center">
-  <b>写提示词出图。精选小红书手绘、江南水墨、复古 Risograph、彩色黏土等 20+ 独特美学场景风格。</b><br>
-  登录后免费送 2 张生成额度，支持 2K 原生超清无水印导出。
+  <b>写提示词出图。精选江南水墨、复古 Risograph、彩色黏土、小红书治愈插画等 20+ 独特美学场景风格。</b><br>
+  登录即送免费作品生成额度，支持 2K 原生超清无水印下载与云端历史同步。
 </p>
 
 <p align="center">
-  <a href="https://image.ailatest.org/"><img src="https://img.shields.io/badge/Live_Site-image.ailatest.org-c4532a?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://image.ailatest.org/gallery/"><img src="https://img.shields.io/badge/Gallery-Curated_Styles-purple?style=for-the-badge" alt="Gallery"></a>
+  <a href="https://image.ailatest.org/"><img src="https://img.shields.io/badge/立即体验-image.ailatest.org-c4532a?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
+  <a href="https://image.ailatest.org/gallery/"><img src="https://img.shields.io/badge/灵感画廊-精选风格预设-purple?style=for-the-badge" alt="Gallery"></a>
   <a href="https://image.ailatest.org/en/"><img src="https://img.shields.io/badge/English_Version-Available-blue?style=for-the-badge" alt="English"></a>
 </p>
 
@@ -22,13 +22,13 @@
   </a>
 </p>
 
-### 2. 真实在线创作界面截图
+### 2. 真实在线创作界面截图 (Live Application Interface)
 <p align="center">
   <a href="https://image.ailatest.org/">
     <img src="assets/screenshots/preview.png" alt="Imagine 真实在线创作界面" width="920">
   </a>
 </p>
-<p align="center"><em>界面截图截取自线上生产环境 <a href="https://image.ailatest.org/">image.ailatest.org</a>。</em></p>
+<p align="center"><em>界面截图截取自线上站点 <a href="https://image.ailatest.org/">image.ailatest.org</a>。</em></p>
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 1. 精选 20+ 高级美学预设风格
 拒绝千篇一律的塑料质感 AI 图，Imagine 深度调优了二十余种极具艺术格调的小众风格：
-- 🖌 **江南水墨烟雨 (Jiangnan Ink Wash)**：淡雅水汽氤氲、水乡白墙黛瓦、写意留白；
+- 🖌 **江南水墨烟雨 (Jiangnan Ink Wash)**：淡雅水汽氤氲、水乡白墙黛瓦、清雅写意留白；
 - 🎨 **Risograph 叠色孔版印刷**：荧光红蓝双色重叠错版、质感颗粒感纸张肌理；
 - 🪐 **杜邦纸黏土偶定格动画 (Claymation)**：纯手工捏制微缩场景、指纹触感立体微阴影；
 - 🏮 **小红书爆款暖愈生活插画**：柔和色调、温馨松弛感生活静物与猫咪萌物；
