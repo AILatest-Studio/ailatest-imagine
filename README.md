@@ -50,6 +50,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`ai-image-generator` · `prompt-to-image` · `text-to-image` · `aesthetic-ai-art` · `sempe-style` · `risograph-ai` · `clay-3d-model` · `film-photography-ai` · `midjourney-alternative` · `flux-image-gen` · `2k-ultra-hd`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -66,3 +70,6 @@
 - **免多余注册**：使用统一 AILatest 账号（与知刊、文献侦探相同），新用户立享 2 张免费体验额度，生成失败自动回退额度。
 
 🌐 **立即在线体验**：[**https://image.ailatest.org/**](https://image.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`AI生图` · `提示词画图` · `AI绘画工具` · `小红书插画生成` · `让雅克桑贝画风` · `孔版印刷Risograph` · `杜邦纸黏土风格` · `复古胶片生图` · `2K无水印大图` · `多图参考垫图` · `Midjourney平替`
